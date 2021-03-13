@@ -41,9 +41,9 @@ Preuzmite [ćiriličnu instalaciju](./cirilica/instalacija-cirilica-us-raspored.
 ### Shift + AltGr (desni alt)
 ![Normal](./cirilica/Cirilica-ShftAltGr.jpg)
 
-## Autor
-Vladimir Jovanović
+## Poruka autora
+Ove izmene svima dajem besplatno na korišćenje i ne tražim nikakve donacije zauzvrat.
+Umesto toga bih vas zamolio da razmislite o donaciji KRIK-u, radi daljeg rasvetljavanja
+korupcije i kriminala u Srbiji.
 
-Designer & senior front-end developer
-
-[www.webdizajn.org](https://webdizajn.org)
+[Podrži KRIK!](https://www.krik.rs/podrzi-nas/)

@@ -46,4 +46,4 @@ Ove izmene svima dajem besplatno na korišćenje i ne tražim nikakve donacije z
 Umesto toga bih vas zamolio da razmislite o donaciji KRIK-u, radi daljeg rasvetljavanja
 korupcije i kriminala u Srbiji.
 
-[Podrži KRIK!](https://www.krik.rs/podrzi-nas/)
+[Podrži KRIK!](https://vx.rs/krik)
